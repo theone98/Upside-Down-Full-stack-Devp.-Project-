@@ -1,0 +1,38 @@
+.title
+{
+    text-align: center;
+}
+.mew-form,.loading
+{
+    width: 30%;
+    margin: 0 auto;
+    
+}
+button
+{
+    background-color: #B22222;
+    color:white;
+}
+.loading
+{
+   /* text-align: center;*/
+    padding: 0;
+    position: fixed;
+    top:0;
+    left: 540px;
+}
+.messages
+{
+    position: absolute;
+    left:20px;
+    top:400px;
+    margin: 0 auto;
+    width: 500px;
+/*
+    background-color: black;
+    color:#FF0000;
+*/
+    border-radius: 10px;
+    margin-bottom: 3px;
+    
+}
