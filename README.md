@@ -1,12 +1,10 @@
 # Upside-Down
 A basic messaging app built to demonstrate the full stack(client, server, database).  
-with the following feature
+with the following features:
 #
-1.user can send a new message
-#
+1.user can send a new message  
 2.user can see all other messages by other users
-
-
+#
 ![ud](https://user-images.githubusercontent.com/37223519/76159551-cc840d80-6147-11ea-9b31-1e8117e0f318.gif)
 
 **Objectives**
